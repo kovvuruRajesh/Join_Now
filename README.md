@@ -1,7 +1,23 @@
 <h1>Join Now</h1>
 
 <p>This platform integrates secure authentication with Clerk, dynamic real-time meeting controls, and efficient scheduling for future and past meetings. It prioritizes user experience with a responsive design, ensuring seamless functionality across all devices. Key features include access to recorded meetings, personal meeting rooms, and detailed participant management for a comprehensive, user-friendly experience.</p>
+<div align="center">
+  <div>
+    <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
+    <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000" alt="nextdotjs" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+  </div>
+</div>
 
+<br>
+<h2>Tech Stack</h2>
+
+- Next.js
+- TypeScript
+- Clerk
+- getstream
+- shadcn
+- Tailwind CSS
 
 **Cloning the Repository**
 
