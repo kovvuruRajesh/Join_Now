@@ -49,7 +49,7 @@ NEXT_PUBLIC_STREAM_API_KEY=
 STREAM_SECRET_KEY=
 ```
 
-
+**For Running Project**
 
 ```bash
 npm run dev
