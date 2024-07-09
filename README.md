@@ -1,5 +1,8 @@
 <h1>Join Now</h1>
 
+<p>Our platform integrates secure authentication with Clerk, dynamic real-time meeting controls, and efficient scheduling for future and past meetings. It prioritizes user experience with a responsive design, ensuring seamless functionality across all devices. Key features include access to recorded meetings, personal meeting rooms, and detailed participant management for a comprehensive, user-friendly experience.</p>
+
+
 **Cloning the Repository**
 
 ```bash
